@@ -89,3 +89,6 @@ typings/
 
 # MongoDB Credentials
 src/private/mongodb.js
+
+# uploads directory
+uploads/
