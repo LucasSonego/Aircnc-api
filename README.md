@@ -3,7 +3,7 @@
 
 Esta é a Api, desenvolvida com **NodeJS**.
 
-É por meio desta Api que tudo acontece na aplicação web e na applicação mobile
+É por meio desta Api que tudo acontece na aplicação web e na aplicação mobile
 
 ### Mobile com React Native.
 [Mais detalhes...](https://github.com/LucasSonego/Aircnc-mobile)
